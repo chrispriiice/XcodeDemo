@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
- let stuff = "just some things to test out source control"
+let stuff = "just some things to test out source control"
 
+let anotherTest = "more stuff"
 }
 
